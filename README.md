@@ -26,22 +26,43 @@
 
 <!-- ✅ ASCII LOGO -->
 <pre align="center">
-╔═╗┬┌┐┌┬┌─  ╔═╗┬┌┐┌┬┌─┐┬┬┌─
-║ ╦││││├┴┐  ║  │││││└─┐│├┴┐
-╚═╝┴┘└┘┴ ┴  ╚═╝┴┘└┘┴└─┘┴┴ ┴
+                                          dddddddd                                                                    
+               AAA                        d::::::d  iiii                     lllllll                                  
+              A:::A                       d::::::d i::::i                    l:::::l                                  
+             A:::::A                      d::::::d  iiii                     l:::::l                                  
+            A:::::::A                     d:::::d                            l:::::l                                  
+           A:::::::::A            ddddddddd:::::d iiiiiii     eeeeeeeeeeee    l::::l zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+          A:::::A:::::A         dd::::::::::::::d i:::::i   ee::::::::::::ee  l::::l z:::::::::::::::z:::::::::::::::z
+         A:::::A A:::::A       d::::::::::::::::d  i::::i  e::::::eeeee:::::eel::::l z::::::::::::::zz::::::::::::::z 
+        A:::::A   A:::::A     d:::::::ddddd:::::d  i::::i e::::::e     e:::::el::::l zzzzzzzz::::::z zzzzzzzz::::::z  
+       A:::::A     A:::::A    d::::::d    d:::::d  i::::i e:::::::eeeee::::::el::::l       z::::::z        z::::::z   
+      A:::::AAAAAAAAA:::::A   d:::::d     d:::::d  i::::i e:::::::::::::::::e l::::l      z::::::z        z::::::z    
+     A:::::::::::::::::::::A  d:::::d     d:::::d  i::::i e::::::eeeeeeeeeee  l::::l     z::::::z        z::::::z     
+    A:::::AAAAAAAAAAAAA:::::A d:::::d     d:::::d  i::::i e:::::::e           l::::l    z::::::z        z::::::z      
+   A:::::A             A:::::Ad::::::ddddd::::::ddi::::::ie::::::::e         l::::::l  z::::::zzzzzzzz z::::::zzzzzzzz
+  A:::::A               A:::::Ad:::::::::::::::::di::::::i e::::::::eeeeeeee l::::::l z::::::::::::::zz::::::::::::::z
+ A:::::A                 A:::::Ad:::::::::ddd::::di::::::i  ee:::::::::::::e l::::::lz:::::::::::::::z:::::::::::::::z
+AAAAAAA                   AAAAAAAddddddddd   dddddiiiiiiii    eeeeeeeeeeeeee llllllllzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 </pre>
 
 <!-- ✅ SYSTEM LOG TERMINAL -->
 <p align="center">
-  <code>
-    BOOT_DEVICE: GitHub OS v4.2<br/>
-    USER_ALIAS : @Adielzz<br/>
-    ROLE       : Fullstack Dev / UI Thinker<br/>
-    STACK      : Kotlin | PHP | Vue | Figma<br/>
-    STATUS     : <span style="color:lime">🟢 ONLINE</span> | ☕ CAFFEINATED<br/>
-    MODE       : GLITCH_HYPERTHREAD ACTIVE ⚡
-  </code>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FF&center=true&vCenter=true&width=440&lines=--+BOOTING+ADIELZZ+SYSTEM+--" />
 </p>
+
+<pre align="center">
+
+┌───────────────────────────────────────────────┐
+│  BOOT_DEVICE : GitHub OS v4.2                 │
+│  USER_ALIAS  : @Adielzz                       │
+│  ROLE        : Fullstack Dev / UI Thinker     │
+│  STACK       : Kotlin | PHP | Vue | Figma     │
+│  STATUS      : 🟢 ONLINE | ☕ CAFFEINATED    │
+│  MODE        : GLITCH_HYPERTHREAD ACTIVE ⚡   │
+└───────────────────────────────────────────────┘
+
+</pre>
+
 
 <!-- ✅ GLITCH GIF -->
 <p align="center">
