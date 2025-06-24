@@ -1,30 +1,32 @@
+<!-- ⚡ FUTURISTIC PROFILE README | BY ADIELZZ -->
+
 <h1 align="center">
-  👋 Hey, I'm Adielzz  
-  <br>
-  🚀 A passionate developer who loves to build cool stuff with code  
-  <br>
-  Currently exploring Web Development, Android, and Design Thinking 🎨🧠
+  ⚡ Adielzz.exe Running...
 </h1>
 
-<br/>
-
 <div align="center">
-  <img src="https://media4.giphy.com/media/13Z5kstwARnPna/giphy.gif" width="300"/>
+  <img src="https://media4.giphy.com/media/13Z5kstwARnPna/giphy.gif" width="320" />
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=00FFF0&center=true&vCenter=true&width=435&lines=Code.+Create.+Disrupt.;Hack+the+Future+with+Style.;Coffee+%2B+Code+%3D+Life" />
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-</div>
+### 🧠 SYSTEM INFO
+
+BOOT_DEVICE: GitHub OS v4.2
+ALIAS: Adielzz
+ROLE: Developer / Designer Hybrid
+LANG: Kotlin, PHP, JavaScript
+STATUS: 🚀 Online | ☕ Fully Caffeinated
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ TECH STACK
 
+<!-- ✅ JANGAN DIHAPUS BAGIAN INI -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" />
@@ -48,12 +50,35 @@
 
 ---
 
-### 📊 Visitor Count
-<div align="center">
-  <img src="https://profile-counter.glitch.me/maurodesouz/count.svg?" />
-</div>
+### 🌐 CONNECT TO NETWORK
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-@yourhandle-ff416c?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-Adielzz%230000-7289da?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-AdielzzTV-ff0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
 
 ---
 
-### 👾 Fun Animation
-![Pacman animation](https://raw.githubusercontent.com/Adielzz/Adielzz/output/dist/pacman.svg)
+### 📊 SYSTEM STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adielzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adielzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
+
+---
+
+### 👁️‍🗨️ VISITOR LOG
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/adielzz/count.svg" />
+</p>
+
+---
+
+### 👾 END SCENE
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adielzz/Adielzz/output/dist/pacman.svg" />
+</p>
