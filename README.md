@@ -15,7 +15,6 @@
 
 ---
 
-### 🧠 SYSTEM INFO
 
 <h3 align="center">🧠 SYSTEM CORE</h3>
 
