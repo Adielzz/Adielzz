@@ -1,9 +1,10 @@
-<h1 align="center">Hey Adielzz Here 👋What's Up?</h1>
+<h1 align="center">I'm a passionate developer who loves to build cool stuff with code 💻  
+Currently exploring everything about **Web Development**, **Android**, and a bit of **Design Thinking** 🎨🧠?</h1>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img src="https://media4.giphy.com/media/13Z5kstwARnPna/giphy.gif" width="300"/>
 </div>
 
 ###
