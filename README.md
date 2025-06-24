@@ -9,8 +9,9 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=00FFF0&center=true&vCenter=true&width=435&lines=Code.+Create.+Disrupt.;Hack+the+Future+with+Style.;Coffee+%2B+Code+%3D+Life" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=00FFF0&center=true&vCenter=true&width=500&lines=Code.+Create.+Disrupt.;Hack+the+Future+with+Style.;Coffee+%2B+Code+%3D+Life.;Fullstack.+Mobile.+Design.;Always+Learning+New+Things.;Powered+by+Passion+%26+Caffeine.;Welcome+to+my+digital+space." />
 </p>
+
 
 ---
 
@@ -80,5 +81,6 @@ STATUS: 🚀 Online | ☕ Fully Caffeinated
 ### 👾 END SCENE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adielzz/Adielzz/output/dist/pacman.svg" />
+  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="300" alt="glitch bye" />
 </p>
+
