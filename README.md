@@ -17,12 +17,13 @@
 
 ### 🧠 SYSTEM INFO
 
-BOOT_DEVICE: GitHub OS v4.2
-ALIAS: Adielzz
-ROLE: Developer / Designer Hybrid
-LANG: Kotlin, PHP, JavaScript
-STATUS: 🚀 Online | ☕ Fully Caffeinated
-
+██ SYSTEM CORE ██
+├─ User: @Adielzz
+├─ Stack: Kotlin • PHP • JavaScript
+├─ Role: Fullstack & UI Thinker
+├─ Mood: ⚡ Flow Mode
+├─ Fuel: ☕ x 3
+└─ Status: ONLINE 🔥
 ---
 
 ### 🛠️ TECH STACK
