@@ -67,6 +67,9 @@ AAAAAAA                   AAAAAAAddddddddd   dddddiiiiiiii    eeeeeeeeeeeeee lll
 <p align="center">
   <img src="https://media.giphy.com/media/eLwcE41xN1Hao/giphy.gif" width="300" alt="glitch hacker" />
 </p>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=212121&textColor=00fff0&qColor=ff007c" alt="coding joke" />
+</p>
 
 ---
 
