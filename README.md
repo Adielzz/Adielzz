@@ -50,16 +50,14 @@ AAAAAAA                   AAAAAAAddddddddd   dddddiiiiiiii    eeeeeeeeeeeeee lll
 </p>
 
 <pre align="center">
-
-┌───────────────────────────────────────────────┐
-│  BOOT_DEVICE : GitHub OS v4.2                 │
-│  USER_ALIAS  : @Adielzz                       │
-│  ROLE        : Fullstack Dev / UI Thinker     │
-│  STACK       : Kotlin | PHP | Vue | Figma     │
-│  STATUS      : 🟢 ONLINE | ☕ CAFFEINATED    │
-│  MODE        : GLITCH_HYPERTHREAD ACTIVE ⚡   │
-└───────────────────────────────────────────────┘
-
+╔═══════════════ SYSTEM DIAGNOSTIC ═══════════════╗
+║  BOOT_DEVICE : GitHub OS v4.2                   ║
+║  USER_ALIAS  : @Adielzz                         ║
+║  ROLE        : Fullstack Dev / UI Thinker       ║
+║  STACK       : Kotlin | PHP | Vue | Figma       ║
+║  STATUS      : 🟢 ONLINE | ☕ CAFFEINATED        ║
+║  MODE        : GLITCH_HYPERTHREAD ACTIVE ⚡     ║
+╚═════════════════════════════════════════════════╝
 </pre>
 
 
@@ -67,8 +65,10 @@ AAAAAAA                   AAAAAAAddddddddd   dddddiiiiiiii    eeeeeeeeeeeeee lll
 <p align="center">
   <img src="https://media.giphy.com/media/eLwcE41xN1Hao/giphy.gif" width="300" alt="glitch hacker" />
 </p>
+
+
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=212121&textColor=00fff0&qColor=ff007c" alt="coding joke" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
