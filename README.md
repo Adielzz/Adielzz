@@ -54,9 +54,9 @@ STATUS: 🚀 Online | ☕ Fully Caffeinated
 ### 🌐 CONNECT TO NETWORK
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-@yourhandle-ff416c?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-Adielzz%230000-7289da?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-AdielzzTV-ff0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-@adielzbuser-ff416c?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-Adielzz-7289da?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-AdielzBuser-ff0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
