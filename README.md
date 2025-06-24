@@ -17,13 +17,37 @@
 
 ### 🧠 SYSTEM INFO
 
-██ SYSTEM CORE ██
-├─ User: @Adielzz
-├─ Stack: Kotlin • PHP • JavaScript
-├─ Role: Fullstack & UI Thinker
-├─ Mood: ⚡ Flow Mode
-├─ Fuel: ☕ x 3
-└─ Status: ONLINE 🔥
+<h3 align="center">🧠 SYSTEM CORE</h3>
+
+<!-- ✅ TYPING HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFF0&center=true&vCenter=true&width=435&lines=BOOTING+SYSTEM...;LOADING+PROFILE...;CONNECTED+%3A+ADIELZZ.EXE" />
+</p>
+
+<!-- ✅ ASCII LOGO -->
+<pre align="center">
+╔═╗┬┌┐┌┬┌─  ╔═╗┬┌┐┌┬┌─┐┬┬┌─
+║ ╦││││├┴┐  ║  │││││└─┐│├┴┐
+╚═╝┴┘└┘┴ ┴  ╚═╝┴┘└┘┴└─┘┴┴ ┴
+</pre>
+
+<!-- ✅ SYSTEM LOG TERMINAL -->
+<p align="center">
+  <code>
+    BOOT_DEVICE: GitHub OS v4.2<br/>
+    USER_ALIAS : @Adielzz<br/>
+    ROLE       : Fullstack Dev / UI Thinker<br/>
+    STACK      : Kotlin | PHP | Vue | Figma<br/>
+    STATUS     : <span style="color:lime">🟢 ONLINE</span> | ☕ CAFFEINATED<br/>
+    MODE       : GLITCH_HYPERTHREAD ACTIVE ⚡
+  </code>
+</p>
+
+<!-- ✅ GLITCH GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/eLwcE41xN1Hao/giphy.gif" width="300" alt="glitch hacker" />
+</p>
+
 ---
 
 ### 🛠️ TECH STACK
