@@ -102,7 +102,7 @@ AAAAAAA                   AAAAAAAddddddddd   dddddiiiiiiii    eeeeeeeeeeeeee lll
 ### 👁️‍🗨️ VISITOR LOG
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Visitors-1000-blue?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Visitors-2576-blue?style=flat-square&logo=github" />
 </p>
 
 
