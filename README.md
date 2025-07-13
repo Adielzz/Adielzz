@@ -92,8 +92,8 @@ AAAAAAA                   AAAAAAAddddddddd   dddddiiiiiiii    eeeeeeeeeeeeee lll
 ### 📊 SYSTEM STATS
 
 <p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adielzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adielzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
+https://github-readme-stats.vercel.app/api?username=Adielzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000
+https://github-readme-stats.vercel.app/api/top-langs/?username=Adielzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000
 </p>
 
 ---
