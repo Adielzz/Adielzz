@@ -102,7 +102,7 @@ AAAAAAA                   AAAAAAAddddddddd   dddddiiiiiiii    eeeeeeeeeeeeee lll
 ### 👁️‍🗨️ VISITOR LOG
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/adielzz/count.svg" />
+ <img src="https://profile-counter.glitch.me/Adielzz/count.svg" />
 </p>
 
 ---
