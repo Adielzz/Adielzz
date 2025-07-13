@@ -102,10 +102,8 @@ AAAAAAA                   AAAAAAAddddddddd   dddddiiiiiiii    eeeeeeeeeeeeee lll
 ### 👁️‍🗨️ VISITOR LOG
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Adielzz&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false"/>
+  <img src="https://img.shields.io/badge/Visitors-1000-blue?style=flat-square&logo=github" />
 </p>
-
-
 
 
 ---
