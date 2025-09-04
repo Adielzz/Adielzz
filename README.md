@@ -53,12 +53,15 @@ AAAAAAA                   AAAAAAAddddddddd   dddddiiiiiiii    eeeeeeeeeeeeee lll
 
 <div align="center">
 
-🏅 Certifications & Badges  
+⚙️ System Status
 
-[![Microsoft Certified](https://img.shields.io/badge/Microsoft-Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/yourprofile)  
-[![Google Cloud Certified](https://img.shields.io/badge/Google_Cloud-Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://google.accredible.com/yourcertificate)  
-[![Dicoding Academy](https://img.shields.io/badge/Dicoding-Academy-blue?style=for-the-badge&logo=graduationcap&logoColor=white)](https://www.dicoding.com/certificates/123456)  
-
+json
+{
+  "mode": "GLITCH_HYPERTHREAD ACTIVE ⚡",
+  "uptime": "21 Years Running ⏳",
+  "coffee": "99% Dependency ☕",
+  "currently": "Debugging Life()"
+}
 </div>
 
 
