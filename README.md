@@ -52,14 +52,12 @@ AAAAAAA                   AAAAAAAddddddddd   dddddiiiiiiii    eeeeeeeeeeeeee lll
 </p>
 
 <pre align="center">
-╔═══════════════ SYSTEM DIAGNOSTIC ═══════════════╗
-║  BOOT_DEVICE : GitHub OS v4.2                   ║
-║  USER_ALIAS  : @Adielzz                         ║
-║  ROLE        : Fullstack Dev / UI Thinker       ║
-║  STACK       : Kotlin | PHP | Vue | Figma       ║
-║  STATUS      : 🟢 ONLINE | ☕ CAFFEINATED        ║
-║  MODE        : GLITCH_HYPERTHREAD ACTIVE ⚡     ║
-╚═════════════════════════════════════════════════╝
+## 🏅 Certifications & Badges
+
+[![Microsoft Certified](https://img.shields.io/badge/Microsoft-Certified-0078D4?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/yourprofile)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Certified-4285F4?logo=googlecloud&logoColor=white)](https://google.accredible.com/yourcertificate)
+[![Dicoding](https://img.shields.io/badge/Dicoding-Academy-blue?logo=d&logoColor=white)](https://www.dicoding.com/certificates/123456)
+
 </pre>
 
 
