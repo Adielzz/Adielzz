@@ -51,14 +51,15 @@ AAAAAAA                   AAAAAAAddddddddd   dddddiiiiiiii    eeeeeeeeeeeeee lll
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FF&center=true&vCenter=true&width=440&lines=--+BOOTING+ADIELZZ+SYSTEM+--" />
 </p>
 
-<pre align="center">
-## 🏅 Certifications & Badges
+<div align="center">
 
-[![Microsoft Certified](https://img.shields.io/badge/Microsoft-Certified-0078D4?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/yourprofile)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Certified-4285F4?logo=googlecloud&logoColor=white)](https://google.accredible.com/yourcertificate)
-[![Dicoding](https://img.shields.io/badge/Dicoding-Academy-blue?logo=d&logoColor=white)](https://www.dicoding.com/certificates/123456)
+🏅 Certifications & Badges  
 
-</pre>
+[![Microsoft Certified](https://img.shields.io/badge/Microsoft-Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/yourprofile)  
+[![Google Cloud Certified](https://img.shields.io/badge/Google_Cloud-Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://google.accredible.com/yourcertificate)  
+[![Dicoding Academy](https://img.shields.io/badge/Dicoding-Academy-blue?style=for-the-badge&logo=graduationcap&logoColor=white)](https://www.dicoding.com/certificates/123456)  
+
+</div>
 
 
 <!-- ✅ GLITCH GIF -->
