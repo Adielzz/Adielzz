@@ -5,9 +5,12 @@
 </h1>
 
 <div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWlmMmk0aHJzN2RyaDJyZmR4eXRnZ3B4OHhmMXZpM2k4Z2JhNzUzNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/HSxD7jhvJVYpV1ekek/giphy.gif" width="320" /><img src=" https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anNzZmNjNHUwY282emwzZWhpcTFhM3A3ajV5aTk4NmZ1a3Nxd3c1NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mj4ruS6mHkdKEdmwc1/giphy.gif" width="320" />
- 
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWlmMmk0aHJzN2RyaDJyZmR4eXRnZ3B4OHhmMXZpM2k4Z2JhNzUzNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/HSxD7jhvJVYpV1ekek/giphy.gif"
+       width="320"  />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anNzZmNjNHUwY282emwzZWhpcTFhM3A3ajV5aTk4NmZ1a3Nxd3c1NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mj4ruS6mHkdKEdmwc1/giphy.gif"
+       width="320"  />
 </div>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=00FFF0&center=true&vCenter=true&width=500&lines=Code.+Create.+Disrupt.;Hack+the+Future+with+Style.;Coffee+%2B+Code+%3D+Life.;Fullstack.+Mobile.+Design.;Always+Learning+New+Things.;Powered+by+Passion+%26+Caffeine.;Welcome+to+my+digital+space." />
