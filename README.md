@@ -57,10 +57,10 @@ AAAAAAA                   AAAAAAAddddddddd   dddddiiiiiiii    eeeeeeeeeeeeee lll
 
 json
 {
-  "mode": "GLITCH_HYPERTHREAD ACTIVE ⚡",
-  "uptime": "21 Years Running ⏳",
-  "coffee": "99% Dependency ☕",
-  "currently": "Debugging Life()"
+  "mode": "GLITCH_HYPERTHREAD ACTIVE ⚡";
+  "uptime": "21 Years Running ⏳";
+  "coffee": "99% Dependency ☕";
+  "currently": "Debugging Life()";
 }
 </div>
 
