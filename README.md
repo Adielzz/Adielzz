@@ -11,7 +11,7 @@
 
   
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=00FFF0&center=true&vCenter=true&width=500&lines=Code.+Create.+Disrupt.;Hack+the+Future+with+Style.;Coffee+%2B+Code+%3D+Life.;Fullstack.+Mobile.+Design.;Always+Learning+New+Things.;Powered+by+Passion+%26+Caffeine.;Welcome+to+my+digital+space." />
+  <img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&duration=4000&pause=500&color=00FFF0&center=true&vCenter=true&width=500&lines=Code.+Create.+Disrupt.;Hack+the+Future+with+Style.;Coffee+%2B+Code+%3D+Life.;Fullstack.+Mobile.+Design.;Always+Learning+New+Things.;Powered+by+Passion+%26+Caffeine.;Welcome+to+my+digital+space." />
 </p>
 
 
