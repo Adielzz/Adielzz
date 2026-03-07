@@ -6,6 +6,10 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anNzZmNjNHUwY282emwzZWhpcTFhM3A3ajV5aTk4NmZ1a3Nxd3c1NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mj4ruS6mHkdKEdmwc1/giphy.gif" width="350" />
 </div>
 
+<p align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=00FFF0&center=true&vCenter=true&width=500&lines=Fullstack+Engineer;AI+Automation+Enthusiast;Next.js+%26+TypeScript;Building+Gayatri+v2+🐔" />
+</p>
+
 ---
 
 ### 🧠 SYSTEM CORE & ANALYTICS
@@ -15,18 +19,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adielzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="175" />
 </p>
 
-> [!TIP]
-> **Catatan:** Jika gambar di atas tidak muncul, itu karena server eksternal sedang *down*. Sebagai gantinya, saya tambahkan **Gryff Trophies** di bawah ini yang lebih jarang *error*.
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adielzz&theme=tokyonight&no-bg=true&margin-w=15" alt="adielzz trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adielzz&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
 </p>
 
 <div align="center">
 
 | ⚙️ **System Status** | **Value** |
 | :--- | :--- |
-| **Current Focus** | `Web-based Expert System (Gayatri) 🐔` |
+| **Current Focus** | `Web-based Expert System (Gayatri)` |
 | **Main Stack** | `Next.js, Node.js, Flowise` |
 | **Uptime** | `21 Years Running ⏳` |
 | **Coffee** | `99% Dependency ☕` |
@@ -43,9 +44,20 @@
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,docker,vercel,railway,git,n8n" /></a>
 </p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=figma,ps,ai,aws,py,php,laravel,kotlin" /></a>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/eLwcE41xN1Hao/giphy.gif" width="280" alt="glitch hacker" />
+</p>
+
+---
+
+### 📈 REPO ACTIVITY MONITOR
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adielzz&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117" width="100%" />
 </p>
 
 ---
