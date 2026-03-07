@@ -7,26 +7,30 @@
 </div>
 
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=00FFF0&center=true&vCenter=true&width=500&lines=Code.+Create.+Disrupt.;Fullstack.+Mobile.+Design.;Powered+by+Passion+%26+Caffeine.;Welcome+to+my+digital+space." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=00FFF0&center=true&vCenter=true&width=500&lines=Fullstack+Engineer;AI+Automation+Enthusiast;Next.js+%26+TypeScript;Building+Gayatri+v2+🐔" />
 </p>
 
 ---
 
-### 🧠 SYSTEM CORE
+### 🧠 SYSTEM CORE & ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adielzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adielzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adielzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adielzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="175" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adielzz&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
 </p>
 
 <div align="center">
 
 | ⚙️ **System Status** | **Value** |
 | :--- | :--- |
-| **Mode** | `GLITCH_HYPERTHREAD ACTIVE ⚡` |
+| **Current Focus** | `Web-based Expert System (Gayatri)` |
+| **Main Stack** | `Next.js, Node.js, Flowise` |
 | **Uptime** | `21 Years Running ⏳` |
 | **Coffee** | `99% Dependency ☕` |
-| **Currently** | `Developing Gayatri v2 🐔` |
 
 </div>
 
@@ -35,14 +39,25 @@
 ### 🛠️ TECH STACK & ARSENAL
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,ts,js,html,css,tailwind" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,tailwind,bootstrap" /></a>
 </p>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,docker,vercel,git,figma,ps,ai" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,docker,vercel,railway,git,n8n" /></a>
+</p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=figma,ps,ai,aws,py,php,laravel,kotlin" /></a>
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/eLwcE41xN1Hao/giphy.gif" width="280" alt="glitch hacker" />
+</p>
+
+---
+
+### 📈 REPO ACTIVITY MONITOR
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adielzz&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117" width="100%" />
 </p>
 
 ---
