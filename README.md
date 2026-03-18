@@ -1,7 +1,7 @@
  <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=500&color=00FFF0&center=true&vCenter=true&width=600&lines=⚡+ADIELZZ.EXE+RUNNING...;HACK+THE+FUTURE+WITH+STYLE.;SYSTEM+OVERRIDE+ACTIVE." />
 </h1>
-
+   
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anNzZmNjNHUwY282emwzZWhpcTFhM3A3ajV5aTk4NmZ1a3Nxd3c1NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mj4ruS6mHkdKEdmwc1/giphy.gif" width="350" />
 </div>
