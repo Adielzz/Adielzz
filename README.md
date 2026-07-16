@@ -14,10 +14,7 @@
 
 ### 🧠 SYSTEM CORE & ANALYTICS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adielzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adielzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="175" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adielzz&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
